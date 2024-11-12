@@ -3,7 +3,7 @@
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Fundamental Concepts of Version Control
-Repository: A repository (repo) is where all the files and their versions are stored. It acts as the database for all code changes. In Git-based systems, the repository contains the full history of the project, including the entire codebase, changes (commits), and associated metadata (authors, dates, etc.).
+Repository: A repository (repo) is where all the files and their versions are stored. It acts as the database for all code changes. In Git-based systems, the repository contains the full history of the project, including the entire codebase, changes (commits), and associated metadata (authors, dates, etc.). 
 
 Commit: A commit represents a snapshot of the code at a particular point in time. Each commit contains information about what changes were made, who made them, and when they were made. Commits are like milestones or checkpoints in the development process.
 
